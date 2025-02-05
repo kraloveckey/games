@@ -8,8 +8,6 @@ align="center">🤖 A collection of simple and different games written on C#, C+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_notes)
-
 ---
 
 - [**`2048`**](./2048/) - A single-player puzzle game on `C#`. The main goal of the game is to slide tiles with numbers on a grid to add them to create a tile with the number 2048, but you can keep playing after you reach that number.
