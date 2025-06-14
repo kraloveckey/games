@@ -6,10 +6,6 @@ align="center">🤖 A collection of simple and different games written on C#, C+
 
 ---
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
----
-
 - [**`2048`**](./2048/) - A single-player puzzle game on `C#`. The main goal of the game is to slide tiles with numbers on a grid to add them to create a tile with the number 2048, but you can keep playing after you reach that number.
 
 ---
@@ -79,3 +75,7 @@ align="center">🤖 A collection of simple and different games written on C#, C+
 - [**`TicTacToe`**](./TicTacToe/) - Tic-Tac-Toe is a very simple two player game on `C#`. So only two players can play at a time. This game is also known as Noughts and Crosses or Xs and Os game. One player plays with X and the other player plays with O. In this game we have a board consisting of a 3X3 grid. The number of grids may be increased.
 
 ---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>
