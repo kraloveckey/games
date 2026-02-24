@@ -76,6 +76,6 @@ align="center">🤖 A collection of simple and different games written on C#, C+
 
 ---
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
-  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
-</a>
+> [!NOTE]
+> 
+> [`A powerful archive`](https://github.com/leereilly/games) — a list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
